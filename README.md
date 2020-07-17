@@ -7,7 +7,7 @@ Python: 3.7.2
 macOS: Catalina 10.15.5  
 
 ## How to Use
-You may refer to the original page of the [project](https://github.com/csuldw/AntSpide) for detailed information. If you are an experienced developer, there is no need to follow or execute .sh file. If not, please follow the instructions in the original page. This readme only describes the problems I encountered when reproducing.
+You may refer to the original page of the [project](https://github.com/csuldw/AntSpide) for detailed information. If you are an experienced developer, there is no need to execute .sh file. If not, please follow the instructions in the original page. This readme only describes the problems I encountered when reproducing.
 
 ## Problem Log
 **Q1:** If the IP proxy is not available, chances are when you get an error page from www.douban.com.   
